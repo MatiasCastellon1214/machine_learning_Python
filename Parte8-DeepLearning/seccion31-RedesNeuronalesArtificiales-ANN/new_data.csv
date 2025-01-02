@@ -1,0 +1,2 @@
+RowNumber;CustomerId;Surname;CreditScore;Geography;Gender;Age;Tenure;Balance;NumOfProducts;HasCrCard;IsActiveMember;EstimatedSalary
+10001;2344444;Jaimito;600;France;Male;40;3;26666.66;3;1;1;99999.9
