@@ -1,55 +1,60 @@
-# **Repositorio del Curso Machine Learning de A a la Z: R y Python para Data Science**
+# **Machine Learning A-Z Course Repository: R & Python for Data Science**
+---
+**Full Syllabus**
 
-**Temario completo**
+- The course covered all the essentials, from the basics to advanced techniques:
 
-- El curso cubrió todo lo esencial, desde lo básico hasta técnicas avanzadas:
+  - 📊 Data Preprocessing → Fundamentals for cleaning and preparing data.
+  
+  - 📈 Regression (Linear, Polynomial, SVR, Decision Trees, Random Forests).
+  
+  - 🔍 Classification (Logistic Regression, K-NN, SVM, Naive Bayes).
+  
+  - 🧩 Clustering (K-Means, Hierarchical).
+  
+  - 🛒 Association Rule Learning (Apriori, Eclat).
+  
+  - 🎮 Reinforcement Learning (Upper Confidence Bound, Thompson Sampling).
+  
+  - 🗣️ Natural Language Processing (NLP) (Bag-of-Words, key algorithms).
+  
+  - 🧠 Deep Learning (Neural Networks, CNN).
+  
+  - 📉 Dimensionality Reduction (PCA, LDA, Kernel PCA).
+  
+  - ⚙️ Model Optimization (Grid Search, XGBoost, k-fold Cross Validation).
 
-  - 📊 Preprocesamiento de datos → Fundamentos para limpieza y preparación de datos.
-  
-  - 📈 Regresión (Lineal, Polinomial, SVR, Árboles de Decisión, Bosques Aleatorios).
-  
-  - 🔍 Clasificación (Regresión Logística, K-NN, SVM, Naive Bayes).
-  
-  - 🧩 Clustering (K-Means, Jerárquico).
-  
-  - 🛒 Aprendizaje por Reglas de Asociación (Apriori, Eclat).
-  
-  - 🎮 Reinforcement Learning (Límite de Confianza Superior, Muestreo Thompson).
-  
-  - 🗣️ Procesamiento de Lenguaje Natural (NLP) (Bag-of-words, algoritmos clave).
-  
-  - 🧠 Deep Learning (Redes Neuronales, CNN).
-  
-  - 📉 Reducción de Dimensionalidad (ACP, LDA, Kernel ACP).
-  
-  - ⚙️ Optimización de Modelos (Grid Search, XGBoost, k-fold Cross Validation).
-  
+---
 
-- ¿Qué aprendí?
-  - ✅ Aplicar Machine Learning con R y Python en distintos escenarios.
+- What did I learn?
   
-  - ✅ Entender cuándo y cómo usar cada modelo.
+  - ✅ Apply Machine Learning with R and Python in different scenarios.
   
-  - ✅ Crear modelos precisos para predicción y clasificación.
+  - ✅ Understand when and how to use each model.
   
-  - ✅ Trabajar con técnicas avanzadas como NLP y Deep Learning.
+  - ✅ Build accurate models for prediction and classification.
   
-  - ✅ Optimizar modelos con métodos como Grid Search y XGBoost.
+  - ✅ Work with advanced techniques like NLP and Deep Learning.
+  
+  - ✅ Optimize models using methods like Grid Search and XGBoost.
 
+---  
 
-- Este curso estuvo destinado a:
+- This course was aimed at:
   
-  - 👨‍🎓 Estudiantes que, como yo, quieren aprender Machine Learning desde cero.
+  - 👨‍🎓 Students like me who want to learn Machine Learning from scratch.
   
-  - 👩‍💻 Analistas que buscan llevar sus habilidades al siguiente nivel.
+  - 👩‍💻 Analysts looking to take their skills to the next level.
   
-  - 🏢 Profesionales que necesitan implementar ML en sus trabajos.
+  - 🏢 Professionals who need to implement ML in their jobs.
+  
+  - 🚀 Anyone curious about Data Science.
+
+---
+
+![Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-57331e47-40d6-4988-a688-999d7fee6fb6.jpg)
 
 
 
-![Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-57331e47-40d6-4988-a688-999d7fee6fb6.jpg)
-
-
-🚀 Cualquier persona con curiosidad por el Data Science.
 
 
